@@ -1,2 +1,2 @@
 {:deps
- {foo {:local/root "../sub2"}}}
+ {monoex/sub2 {:local/root "../sub2"}}}
